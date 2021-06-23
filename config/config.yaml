@@ -1,11 +1,11 @@
 # your domain
-domain: example.com
+domain: 192.168.1.2:12580
 port:                 # default 12580
 
 # source list file
 source-files:
   # use local file
-  - ./config/source.yaml
+  - ./source.yaml
   # use web file
   # - https://example.com/config/source.yaml
 
